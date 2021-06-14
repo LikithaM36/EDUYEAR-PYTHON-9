@@ -9,7 +9,7 @@ print("This will print all even indexed characters in given word")
 st2=str(input('Enter a word:'))
 ss = st2[2::2]
 print("even indexed characters in",st2,"are:",ss)
-#st='hello'
+
 
 #swap case program
 print('Swapcase Program')
